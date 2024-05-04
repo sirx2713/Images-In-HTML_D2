@@ -1,0 +1,25 @@
+body{
+    background-color: #32012F;
+    color: #E2DFD0;
+    align-content: center;
+    text-align: center;
+}
+h1{
+    font-family: "SF Pro Display", serif;
+    font-size: 100px;
+}
+#image-div{
+    height: 427px;
+    width: 640px;
+    background-color: #524C42;
+    align-content: center;
+    margin-left: 380px;
+    border: 10px solid #F97300;
+}
+#logo{
+    font-family: "SF Pro Display", serif;
+    font-size: 50px;
+}
+#my-say{
+    font-family: "SF Pro Display", serif;
+}
